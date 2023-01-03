@@ -1,5 +1,5 @@
 # DWM
-use AllElectronics;
+use AllElectronics;<br>
 show tables;
 select * from purchases join employee on employee.empl_id = purchases.empl_id order by purchases.empl_id;
 
